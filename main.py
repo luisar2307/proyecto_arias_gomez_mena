@@ -37,3 +37,4 @@ productos = [
     }
 ]
 print(productos[0]["nombre"])
+
